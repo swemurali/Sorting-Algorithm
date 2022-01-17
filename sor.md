@@ -59,7 +59,7 @@ print(value)
 ```
 
 ## Output:
-![output1](.//)
-
+![output1](.//s3.png)
+![output2](.//s4.png)
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
